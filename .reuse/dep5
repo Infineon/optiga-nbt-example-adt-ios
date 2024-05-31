@@ -1,0 +1,17 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: .swiftformat *.xctestplan *.plist *.entitlements InfineonNBTADT.xcodeproj*/* */*/.swiftformat InfineonNBTADTTests/*/*.png *.sh .gitmodules InfineonNBTADT/Presentation/Assets/*/*.xcassets/*/Contents.json InfineonNBTADT/Presentation/Assets/*/*.xcassets/Contents.json
+Copyright: 2024 Infineon Technologies AG
+License: CC0-1.0
+
+Files: Docs/Img/*.png
+Copyright: 2024 Infineon Technologies AG
+License: CC-BY-4.0
+
+Files: InfineonNBTADT/Presentation/Assets/Images/Assets.xcassets/*/*.png InfineonNBTADT/Presentation/Assets/Images/Assets.xcassets/*/*.svg
+Copyright: 2024 Infineon Technologies AG 
+License: CC-BY-NC-ND-4.0
+
+Files: InfineonNBTADT/Presentation/Assets/Fonts/SourceSans*.ttf InfineonNBTADT/Presentation/Assets/Fonts/SourceSans*.otf
+Copyright: 2014-2021 Adobe (http://www.adobe.com/)
+License: OFL-1.1
